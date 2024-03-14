@@ -1,0 +1,5 @@
+# Beginning of node exclusions
+node_modules
+
+# production
+/build
